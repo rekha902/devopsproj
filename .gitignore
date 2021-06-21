@@ -2,3 +2,5 @@
 *.doc
 *.py
 
+!srikanth.py
+
